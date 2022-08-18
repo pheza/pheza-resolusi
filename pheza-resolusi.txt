@@ -1,0 +1,5 @@
+PHEZA RESOLUSI
+- Konsisten Belajar Coding Fullstack Web Developer
+- Membuat Sosial Media untuk Para Programmer
+- Aktive di github
+- Package Manager di npm
