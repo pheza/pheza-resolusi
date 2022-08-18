@@ -3,3 +3,5 @@ PHEZA RESOLUSI
 - Membuat Sosial Media untuk Para Programmer
 - Aktive di github
 - Package Manager di npm
+- Memperdalam Css Framework
+- Memnggunakan MERN || MEVN Stack.
