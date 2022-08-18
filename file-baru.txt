@@ -2,3 +2,5 @@ Contoh Membuat Branch
 Contoh Commit Lagi Di branc rencana baru
 Contok Setelah Di merge
 Ini Ditambah Oleh orang lain lewat branch coba fitur 1
+Saya juga sama dari orang lain tapi lewat Coba fitur 2
+
